@@ -9,6 +9,7 @@ updates:
     directory: "/javascript"
     schedule:
       interval: "daily"
+    target_branch: sureshan02-patch-1
   - package-ecosystem: bundler
     directory: "/ruby"
     schedule:
